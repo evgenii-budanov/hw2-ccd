@@ -21,7 +21,7 @@
 
 [1]: Steve B. Howell, "Handbook of CCD Astronomy", Cambridge University Press, 2006
 
-**Дедлайн 24 февраля 2022 в 23:55**
+**Дедлайн 23 февраля 2023 в 23:55**
 
 Вы должны сделать следующее:
 
